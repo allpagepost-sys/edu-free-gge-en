@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://edu-free-gge-en.pages.dev/</loc><priority>1.0</priority></url>
-<url><loc>https://edu-free-gge-en.pages.dev/terms.html</loc><priority>0.5</priority></url>
-<url><loc>https://edu-free-gge-en.pages.dev/privacy.html</loc><priority>0.5</priority></url>
-<url><loc>https://edu-free-gge-en.pages.dev/disclaimer.html</loc><priority>0.5</priority></url>
+  <url>
+    <loc>https://edu-free-gge-en.pages.dev/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://edu-free-gge-en.pages.dev/understanding-different-learning-styles-explained.html</loc>
+    <lastmod>2026-04-25T15:29:49.851Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
