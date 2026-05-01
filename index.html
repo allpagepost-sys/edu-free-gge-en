@@ -58,6 +58,17 @@ a { color: #ff6f00; }
     .post-card h2 { font-size: 0.88rem; margin-bottom: 0.35rem; line-height: 1.4; color: #1a1a1a; font-weight: 600; }
     .post-card p { font-size: 0.78rem; color: #777; margin-bottom: 0.4rem; line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .post-card-meta { font-size: 0.7rem; color: #bbb; }
+    /* 별점 위젯 */
+    .rating-section { text-align: center; padding: 2rem 1rem; margin: 2rem 0; background: #fafafa; border-radius: 12px; border: 1px solid #eee; }
+    .rating-title { font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem; color: #333; }
+    .rating-subtitle { font-size: 0.8rem; color: #999; margin-bottom: 1rem; }
+    .stars-input { display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 1rem; }
+    .star-btn { font-size: 2.5rem; cursor: pointer; transition: transform 0.1s; background: none; border: none; padding: 0; line-height: 1; filter: grayscale(1); opacity: 0.4; }
+    .star-btn:hover, .star-btn.active { filter: grayscale(0); opacity: 1; transform: scale(1.2); }
+    .rating-result { font-size: 0.85rem; color: #666; }
+    .rating-avg { font-size: 1.8rem; font-weight: 700; color: #f57c00; }
+    .rating-count { font-size: 0.8rem; color: #999; margin-top: 0.2rem; }
+    .stars-display { color: #fbbf24; font-size: 1.2rem; letter-spacing: 0.1rem; }
     
     .post-content { background: #ffffff; padding: 3rem; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
     .post-content h1 { font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
@@ -149,6 +160,19 @@ a { color: #ff6f00; }
   <main class="container">
     <div class="post-grid">
       <article class="post-card">
+        <a href="/top-educational-resources-for-homeschoolers.html">
+          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/537/600/400')">
+            
+          </div>
+          <div class="post-card-body">
+            <h2>Top Educational Resources for Homeschoolers: Cultivating Curiosity</h2>
+            <p>Uncover the top educational resources for homeschoolers with Dr. Elara Vance. Explore curr...</p>
+            <span class="post-card-meta">5/1/2026</span>
+          </div>
+        </a>
+      </article>
+    
+      <article class="post-card">
         <a href="/paid-tutoring-vs-free-academic-resources.html">
           <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/821/600/400')">
             
@@ -162,53 +186,14 @@ a { color: #ff6f00; }
       </article>
     
       <article class="post-card">
-        <a href="/active-recall-vs-re-reading-for-exams.html">
-          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/411/600/400')">
+        <a href="/understanding-different-learning-styles-explained.html">
+          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/759/600/400')">
             
           </div>
           <div class="post-card-body">
-            <h2>Active Recall vs Re-reading for Exams: The Ultimate Study Showdown</h2>
-            <p>Uncover the cognitive science behind active recall vs re-reading for exams. Dr. Elara Vanc...</p>
-            <span class="post-card-meta">4/30/2026</span>
-          </div>
-        </a>
-      </article>
-    
-      <article class="post-card">
-        <a href="/effective-study-techniques-for-high-school.html">
-          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/942/600/400')">
-            
-          </div>
-          <div class="post-card-body">
-            <h2>Mastering Your Mind: Effective Study Techniques for High School</h2>
-            <p>Discover proven, brain-friendly effective study techniques for high school students. Boost...</p>
-            <span class="post-card-meta">4/29/2026</span>
-          </div>
-        </a>
-      </article>
-    
-      <article class="post-card">
-        <a href="/top-educational-resources-for-homeschoolers.html">
-          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/537/600/400')">
-            
-          </div>
-          <div class="post-card-body">
-            <h2>Top Educational Resources for Homeschoolers: Cultivating Curiosity</h2>
-            <p>Uncover the top educational resources for homeschoolers with Dr. Elara Vance. Explore curr...</p>
-            <span class="post-card-meta">4/28/2026</span>
-          </div>
-        </a>
-      </article>
-    
-      <article class="post-card">
-        <a href="/best-study-apps-for-college-students.html">
-          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/69/600/400')">
-            
-          </div>
-          <div class="post-card-body">
-            <h2>Best Study Apps for College Students: Cultivating Curiosity Digitally</h2>
-            <p>Dr. Elara Vance guides college students through the best study apps to boost productivity,...</p>
-            <span class="post-card-meta">4/27/2026</span>
+            <h2>Understanding Different Learning Styles Explained: Your Guide</h2>
+            <p>Unlock your potential by understanding different learning styles explained. Explore VARK, ...</p>
+            <span class="post-card-meta">5/1/2026</span>
           </div>
         </a>
       </article>
@@ -221,20 +206,7 @@ a { color: #ff6f00; }
           <div class="post-card-body">
             <h2>Best Note-Taking Methods for University Success</h2>
             <p>Unlock academic potential with the best note-taking methods for university students. Explo...</p>
-            <span class="post-card-meta">4/26/2026</span>
-          </div>
-        </a>
-      </article>
-    
-      <article class="post-card">
-        <a href="/understanding-different-learning-styles-explained.html">
-          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/759/600/400')">
-            
-          </div>
-          <div class="post-card-body">
-            <h2>Understanding Different Learning Styles Explained: Your Guide</h2>
-            <p>Unlock your potential by understanding different learning styles explained. Explore VARK, ...</p>
-            <span class="post-card-meta">4/26/2026</span>
+            <span class="post-card-meta">5/1/2026</span>
           </div>
         </a>
       </article>
@@ -247,7 +219,7 @@ a { color: #ff6f00; }
           <div class="post-card-body">
             <h2>How to Study Effectively for Exams: A Timeless Guide</h2>
             <p>Unlock the secrets to mastering your exams. Discover chronological strategies, historical ...</p>
-            <span class="post-card-meta">4/26/2026</span>
+            <span class="post-card-meta">5/1/2026</span>
           </div>
         </a>
       </article>
@@ -260,7 +232,7 @@ a { color: #ff6f00; }
           <div class="post-card-body">
             <h2>How to Overcome Procrastination Academic: Your Guide</h2>
             <p>Struggling with academic procrastination? Learn effective strategies, understand its cause...</p>
-            <span class="post-card-meta">4/26/2026</span>
+            <span class="post-card-meta">5/1/2026</span>
           </div>
         </a>
       </article>
@@ -273,7 +245,20 @@ a { color: #ff6f00; }
           <div class="post-card-body">
             <h2>Improving Critical Thinking Skills Education: A Modern Imperative</h2>
             <p>Explore effective strategies for improving critical thinking skills education. Learn how t...</p>
-            <span class="post-card-meta">4/26/2026</span>
+            <span class="post-card-meta">5/1/2026</span>
+          </div>
+        </a>
+      </article>
+    
+      <article class="post-card">
+        <a href="/active-recall-vs-re-reading-for-exams.html">
+          <div class="post-card-thumb" style="background-image:url('https://picsum.photos/seed/411/600/400')">
+            
+          </div>
+          <div class="post-card-body">
+            <h2>Active Recall vs Re-reading for Exams: The Ultimate Study Showdown</h2>
+            <p>Uncover the cognitive science behind active recall vs re-reading for exams. Dr. Elara Vanc...</p>
+            <span class="post-card-meta">5/1/2026</span>
           </div>
         </a>
       </article>
