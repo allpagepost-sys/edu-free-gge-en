@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://edu-free-gge-en.pages.dev/sitemap.xml
+Sitemap: https://edu-free-gge-en.pages.dev/rss.xml
