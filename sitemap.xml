@@ -6,12 +6,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://edu-free-gge-en.pages.dev/improving-critical-thinking-skills-education.html</loc>
-    <lastmod>2026-04-26T00:21:35.849Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://edu-free-gge-en.pages.dev/best-study-apps-for-college-students.html</loc>
     <lastmod>2026-05-01T23:16:26.414Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +44,12 @@
   <url>
     <loc>https://edu-free-gge-en.pages.dev/active-recall-vs-re-reading-for-exams.html</loc>
     <lastmod>2026-04-30T00:11:30.877Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edu-free-gge-en.pages.dev/improving-critical-thinking-skills-education.html</loc>
+    <lastmod>2026-04-26T00:21:35.849Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
