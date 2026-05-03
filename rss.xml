@@ -5,7 +5,7 @@
     <link>https://edu-free-gge-en.pages.dev/</link>
     <description>edu-free-gge - 최신 글 RSS 피드</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 May 2026 11:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:52:03 GMT</lastBuildDate>
     <atom:link href="https://edu-free-gge-en.pages.dev/rss.xml" rel="self" type="application/rss+xml"/>
     <ttl>60</ttl>
     <item>
@@ -21,6 +21,13 @@
       <description>Uncover the top educational resources for homeschoolers with Dr. Elara Vance. Explore curricula, online platforms, and innovative tools to foster a lifelong love of learning at home.</description>
       <pubDate>Sat, 02 May 2026 02:10:52 GMT</pubDate>
       <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/top-educational-resources-for-homeschoolers.html</guid>
+    </item>
+    <item>
+      <title>Effective Study Techniques for High School Success</title>
+      <link>https://edu-free-gge-en.pages.dev/effective-study-techniques-for-high-school.html</link>
+      <description>Unlock your potential with Dr. Elara Vance's guide to effective study techniques for high school. Learn science-backed strategies like retrieval practice and spaced repetition to boost memory and ace exams.</description>
+      <pubDate>Sat, 02 May 2026 11:07:11 GMT</pubDate>
+      <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/effective-study-techniques-for-high-school.html</guid>
     </item>
     <item>
       <title>How to Overcome Procrastination Academic: Your Guide</title>
@@ -44,18 +51,18 @@
       <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/how-to-study-effectively-for-exams.html</guid>
     </item>
     <item>
-      <title>Understanding Different Learning Styles Explained: Your Guide</title>
-      <link>https://edu-free-gge-en.pages.dev/understanding-different-learning-styles-explained.html</link>
-      <description>Unlock your potential by understanding different learning styles explained. Explore VARK, Kolb's model, and practical strategies to enhance your educational journey.</description>
-      <pubDate>Sat, 02 May 2026 02:10:53 GMT</pubDate>
-      <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/understanding-different-learning-styles-explained.html</guid>
-    </item>
-    <item>
       <title>Best Note-Taking Methods for University Success</title>
       <link>https://edu-free-gge-en.pages.dev/best-note-taking-methods-for-university.html</link>
       <description>Unlock academic potential with the best note-taking methods for university students. Explore Cornell, Sketchnoting, Zettelkasten, and more to boost retention and excel in your studies.</description>
       <pubDate>Sat, 02 May 2026 02:10:53 GMT</pubDate>
       <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/best-note-taking-methods-for-university.html</guid>
+    </item>
+    <item>
+      <title>Understanding Different Learning Styles Explained: Your Guide</title>
+      <link>https://edu-free-gge-en.pages.dev/understanding-different-learning-styles-explained.html</link>
+      <description>Unlock your potential by understanding different learning styles explained. Explore VARK, Kolb's model, and practical strategies to enhance your educational journey.</description>
+      <pubDate>Sat, 02 May 2026 02:10:53 GMT</pubDate>
+      <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/understanding-different-learning-styles-explained.html</guid>
     </item>
     <item>
       <title>Active Recall vs Re-reading for Exams: The Ultimate Study Showdown</title>
@@ -70,13 +77,6 @@
       <description>Explore effective strategies for improving critical thinking skills education. Learn how to foster analytical minds in students, adapt to new educational trends, and prepare them for future challenges.</description>
       <pubDate>Sat, 02 May 2026 02:10:53 GMT</pubDate>
       <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/improving-critical-thinking-skills-education.html</guid>
-    </item>
-    <item>
-      <title>Effective Study Techniques for High School Success</title>
-      <link>https://edu-free-gge-en.pages.dev/effective-study-techniques-for-high-school.html</link>
-      <description>Unlock your potential with Dr. Elara Vance's guide to effective study techniques for high school. Learn science-backed strategies like retrieval practice and spaced repetition to boost memory and ace exams.</description>
-      <pubDate>Sat, 02 May 2026 11:06:37 GMT</pubDate>
-      <guid isPermaLink="true">https://edu-free-gge-en.pages.dev/effective-study-techniques-for-high-school.html</guid>
     </item>
   </channel>
 </rss>
